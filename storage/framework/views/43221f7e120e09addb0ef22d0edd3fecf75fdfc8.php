@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\Al Haytham\Desktop\First_Laravel_project\resources\views/user2.blade.php ENDPATH**/ ?>
